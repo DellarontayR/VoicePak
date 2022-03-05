@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "VoicePak",
+    "slug": "VoicePak",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
